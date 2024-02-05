@@ -18,8 +18,8 @@ I tried adding files to `/product/fonts/` but Moto App doesn't display them, and
 
 #### To-do
 
-[ ] Add a way to change the installed font without needing to reinstall the module
-[ ] Add a way to install multiple fonts (most probably not more than 4)
+- [ ] Add a way to change the installed font without needing to reinstall the module
+- [ ] Add a way to install multiple fonts (most probably not more than 4)
 
 ## Installation
 
