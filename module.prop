@@ -1,0 +1,6 @@
+id=moto-kyoto-custom-font
+name=Motorola Edge 20 Fusion Custom Font
+version=0.1
+versionCode=1
+author=Segmentation Violator
+description=Replace default /product/fonts/RobotoSlab-Regular.ttf with any desired TTF font. Allowind user to select it from Moto App
